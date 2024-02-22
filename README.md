@@ -5,6 +5,6 @@ Cabel, D., Sugasawa, S., Kato, M., Takanashi, K. and  McAlinn, K. (2022). Bayesi
 
 The repository includes the following files.
 
-`BSPS.R`: Implementation of BSPS
-`example1.R`: Example of applying BSPS and some existing prediction methods to simulated data
-`example2.R`: Example of applying BSPS and some existing prediction methods to simulated data
+- `BSPS.R`: Implementation of BSPS
+- `example1.R`: Example of applying BSPS and some existing prediction methods to simulated data
+- `example2.R`: Example of applying BSPS and some existing prediction methods to simulated data
