@@ -8,3 +8,5 @@ The repository includes the following files.
 - `BSPS.R`: Implementation of BSPS
 - `example1.R`: Example of applying BSPS and some existing prediction methods to simulated data
 - `example2.R`: Example of applying BSPS and some existing prediction methods to simulated data
+
+Please contact sugasawa (at) econ.keio.ac.jp if you have any questions.
