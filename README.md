@@ -9,4 +9,4 @@ The repository includes the following files.
 - `example1.R`: Example of applying BSPS and some existing prediction methods to simulated data
 - `example2.R`: Example of applying BSPS and some existing prediction methods to simulated data
 
-Please contact sugasawa (at) econ.keio.ac.jp if you have any questions.
+Please contact `sugasawa (at) econ.keio.ac.jp` if you have any questions.
